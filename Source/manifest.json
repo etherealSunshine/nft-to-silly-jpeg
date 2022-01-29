@@ -1,8 +1,8 @@
 {
-	"manifest_version": 3,
-	"name": "NFT to silly jpeg",
+	"manifest_version": 1,
+	"name": "Web3 to webpee",
 	"version": "1.0",
-	"description": "Replaces the text 'NFT' with 'silly jpeg'.",
+	"description": "Replaces the text 'Web3' with 'webpee'.",
 	"content_scripts": 
 	[
 		{
