@@ -1,14 +1,10 @@
-'NFT' to 'silly jpeg'
+'Web3' to 'Web pee'
 =============
 
 ![](screen.png)
 
-Chrome extension that replaces all occurrences of 'NFT' with 'silly jpeg'.
+Chrome extension that replaces all occurrences of 'Web3' with 'web pee'.
 
 Forked from PanicSteve's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt/)
 
 
-Installation
-------------
-
-[Chrome Web Store](https://chrome.google.com/webstore/detail/nft-to-silly-jpeg/hcajgiblhhpbgbmlgioljefhmoolebjn)
