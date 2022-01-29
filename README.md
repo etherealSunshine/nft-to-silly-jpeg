@@ -1,7 +1,7 @@
 'Web3' to 'Web pee'
 =============
 
-![](screen.png)
+![](sample.png)
 
 Chrome extension that replaces all occurrences of 'Web3' with 'web pee'.
 
