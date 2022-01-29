@@ -1,7 +1,7 @@
 {
-	"manifest_version": 1,
+	"manifest_version": 2,
 	"name": "Web3 to webpee",
-	"version": "2",
+	"version": "1.0",
 	"description": "Replaces the text 'Web3' with 'webpee'.",
 	"content_scripts": 
 	[
