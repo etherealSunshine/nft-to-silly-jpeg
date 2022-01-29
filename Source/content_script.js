@@ -46,6 +46,7 @@ function handleText(textNode)
 	v = v.replace(/\bWEb3\b/g, "web pee");
 	v = v.replace(/\bweb 3\b/g, "web pee");
 	v = v.replace(/\bWEB 3\b/g, "web pee");
+	v = v.replace(/\bWeb 3\b/g, "web pee");
 	
 	
 	textNode.nodeValue = v;
